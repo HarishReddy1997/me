@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/HarishReddy1997/me/static/css/main.113e5579.chunk.css",
+    "main.js": "/HarishReddy1997/me/static/js/main.eb26dca7.chunk.js",
+    "main.js.map": "/HarishReddy1997/me/static/js/main.eb26dca7.chunk.js.map",
+    "runtime-main.js": "/HarishReddy1997/me/static/js/runtime-main.2ff7fe02.js",
+    "runtime-main.js.map": "/HarishReddy1997/me/static/js/runtime-main.2ff7fe02.js.map",
+    "static/css/2.bd81d9e0.chunk.css": "/HarishReddy1997/me/static/css/2.bd81d9e0.chunk.css",
+    "static/js/2.7e532867.chunk.js": "/HarishReddy1997/me/static/js/2.7e532867.chunk.js",
+    "static/js/2.7e532867.chunk.js.map": "/HarishReddy1997/me/static/js/2.7e532867.chunk.js.map",
+    "index.html": "/HarishReddy1997/me/index.html",
+    "precache-manifest.ce4ce265c38afeb4bb7aa3186ef735a6.js": "/HarishReddy1997/me/precache-manifest.ce4ce265c38afeb4bb7aa3186ef735a6.js",
+    "service-worker.js": "/HarishReddy1997/me/service-worker.js",
+    "static/css/2.bd81d9e0.chunk.css.map": "/HarishReddy1997/me/static/css/2.bd81d9e0.chunk.css.map",
+    "static/css/main.113e5579.chunk.css.map": "/HarishReddy1997/me/static/css/main.113e5579.chunk.css.map",
+    "static/js/2.7e532867.chunk.js.LICENSE.txt": "/HarishReddy1997/me/static/js/2.7e532867.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/HarishReddy1997/me/static/media/background.f0d404d8.jpg",
+    "static/media/background1.jpeg": "/HarishReddy1997/me/static/media/background1.a8860490.jpeg",
+    "static/media/background2.jpeg": "/HarishReddy1997/me/static/media/background2.4a75f590.jpeg",
+    "static/media/font-awesome.min.css": "/HarishReddy1997/me/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/profile.jpeg": "/HarishReddy1997/me/static/media/profile.4f0d87af.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ff7fe02.js",
+    "static/css/2.bd81d9e0.chunk.css",
+    "static/js/2.7e532867.chunk.js",
+    "static/css/main.113e5579.chunk.css",
+    "static/js/main.eb26dca7.chunk.js"
+  ]
+}
